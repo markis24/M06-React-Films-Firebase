@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+  width: 200px;
+  cursor: pointer;
+}
+
+.card h3 {
+  margin: 0;
+  color: #333;
+}

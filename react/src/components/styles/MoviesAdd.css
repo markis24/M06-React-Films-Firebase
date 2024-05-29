@@ -1,0 +1,32 @@
+.movie-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 20px;
+  }
+  
+  .movie-form div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .movie-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .movie-form input,
+  .movie-form textarea {
+    padding: 8px;
+    width: 300px;
+  }
+  
+  .movie-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
